@@ -35,4 +35,8 @@ const additionalInstructions = `
 5. Implement proper offline support
 6. Follow React Native best practices for performance
 7. Use Expo's OTA updates for quick deployments
-`;
+
+// UI/UX Rules
+- Always strictly follow Apple's Human Interface Guidelines fo iOS and Jetpack Compose fo Android.
+- Touch targets must be at least 44x44 points.
+- Use system fonts and standard Apple colors where possible.
